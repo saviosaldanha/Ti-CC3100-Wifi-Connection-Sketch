@@ -1,8 +1,8 @@
 #include <SPI.h>
 #include <WiFi.h>
 
-char ssid[] = "catastrophy_killy";
-char password[] = "kate0101";
+char ssid[] = "Your SSID goes here";
+char password[] = "password for SSID goes here";
 void setup()
 {
 	Serial.begin(115200);
